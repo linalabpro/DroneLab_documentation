@@ -2,7 +2,7 @@ The "Shazam" UAV drone project 🔊
 
 Identification and mapping of sounds captured from UAV drones flights. Detection of type and specificities UAV (unmanned aerial vehicle). The project is based on a Deep Learning model associated with sound signatures from specifics trained models.
 
-Tags #UAV #Drone #sound #detection 
+Tags #UAV #drone #sound #detection
 
 Protecting people - Securing the airspace
 
